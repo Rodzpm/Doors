@@ -22,5 +22,5 @@ python3 main.py
 ## Demo
 
 <p align="center">
-    ![](https://giphy.com/embed/5sCn3JsOpcFPQboVWi)
+    ![](example.gif)
 </p>
