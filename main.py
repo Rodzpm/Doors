@@ -15,6 +15,7 @@ def main(stdscr):
     #Init Window
     window = Win(stdscr)
     curses.curs_set(0)
+    curses.noecho()
     window.win.bkgd(' ', curses.color_pair(1))
     current_row = 0
     print_menu(window.win, current_row)
