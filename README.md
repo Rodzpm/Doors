@@ -21,5 +21,6 @@ python3 main.py
 
 ## Demo
 
-![](https://github.com/Rodzpm/Doors/blob/main/example.gif)
+![](https://giphy.com/embed/5sCn3JsOpcFPQboVWi)
+
 
